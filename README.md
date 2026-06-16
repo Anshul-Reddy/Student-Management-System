@@ -56,6 +56,6 @@ The system allows users to perform CRUD operations on student records while stor
 * Form Validation
 
 
-## 👨‍💻 Author
+##  Author
 
 Anshul Reddy
